@@ -1,0 +1,1 @@
+java -cp SettlersApplet.jar SettlersLauncher.java
